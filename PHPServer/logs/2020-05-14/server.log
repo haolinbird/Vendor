@@ -1,0 +1,84 @@
+2020-05-14 10:59:47 /Users/haolin/work/oilunion/Payment_Service/Module/Sharding/BatchTradeOrders.php updated and reload workers
+2020-05-14 10:59:47 Server notice:Server reloading
+2020-05-14 10:59:47 Server notice:
+Worker Restart Success
+2020-05-14 10:59:47 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 10:59:47 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 10:59:47 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 10:59:47 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 10:59:47 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 10:59:47 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 10:59:47 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 10:59:47 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 10:59:47 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 10:59:47 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:05:39 /Users/haolin/work/oilunion/Payment_Service/Module/Sharding/BatchTradeOrders.php updated and reload workers
+2020-05-14 11:05:39 Server notice:Server reloading
+2020-05-14 11:05:39 Server notice:
+Worker Restart Success
+2020-05-14 11:05:40 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:05:40 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:05:40 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:05:40 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:05:40 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:05:40 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:05:40 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:05:40 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:05:40 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:05:40 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:12:21 /Users/haolin/work/oilunion/Payment_Service/Module/Sharding/BatchTradeSplitFund.php updated and reload workers
+2020-05-14 11:12:21 Server notice:Server reloading
+2020-05-14 11:12:21 Server notice:
+Worker Restart Success
+2020-05-14 11:12:21 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:12:21 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:12:21 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:12:21 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:12:21 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:12:21 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:12:21 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:12:21 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:12:21 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:12:21 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:13:29 /Users/haolin/work/oilunion/Payment_Service/Module/Sharding/BatchTradeSplitFund.php updated and reload workers
+2020-05-14 11:13:29 Server notice:Server reloading
+2020-05-14 11:13:29 Server notice:
+Worker Restart Success
+2020-05-14 11:13:29 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:13:29 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:13:29 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:13:29 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:13:29 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:13:29 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:13:29 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:13:29 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:13:29 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:13:29 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:15:50 /Users/haolin/work/oilunion/Payment_Service/Module/Sharding/BatchTradeSplitFund.php updated and reload workers
+2020-05-14 11:15:50 Server notice:Server reloading
+2020-05-14 11:15:50 Server notice:
+Worker Restart Success
+2020-05-14 11:15:50 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:15:50 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:15:50 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:15:50 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:15:50 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:15:50 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:15:50 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:15:50 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:15:50 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:15:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:15:51 /Users/haolin/work/oilunion/Payment_Service/Module/Sharding/BatchTradeSplitFund.php updated and reload workers
+2020-05-14 11:15:51 Server notice:Server reloading
+2020-05-14 11:15:51 Server notice:
+Worker Restart Success
+2020-05-14 11:15:51 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:15:51 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:15:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:15:51 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:15:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:15:51 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:15:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:15:51 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-14 11:15:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-14 11:15:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits

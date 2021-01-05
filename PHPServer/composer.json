@@ -1,0 +1,36 @@
+{
+	"name": "PHPServer",
+	"description": "PHPServer",
+	"authors": [
+		{
+			"name":"liangl3",
+			"email": "liangl3@jumei.com",
+			"role": "STM"
+		}
+	], 
+	"type":"library",
+	"config":{
+		"vendor-dir": "Vendor",
+		"secure-http": false
+	},
+	"scripts":{
+		"post-update-cmd":"rm -rf Vendor/composer && rm -rf Vendor/autoload.php",
+		"post-install-cmd":"rm -rf Vendor/composer && rm -rf Vendor/autoload.php"
+	},
+	"repositories":[
+		{
+			"packagist":false
+		},
+		{
+			"type": "composer",
+			"url": "http://packagist.int.codehl.com/"
+		}
+	],
+	"require-dev":
+	{
+		"Bootstrap":">=1.1.0",
+		"MNLogger": "0.4.2",
+		"PHPClient":">=1.3.4"
+	}
+}
+

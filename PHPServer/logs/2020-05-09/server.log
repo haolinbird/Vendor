@@ -1,0 +1,230 @@
+2020-05-09 00:40:40 [Monitor] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [JumeiWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [JmTextWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [ThriftWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [JumeiWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [TestClientWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [ThriftWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [ThriftWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [StatisticGlobal] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [StatisticProvider] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [JumeiWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [JumeiWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [ThriftWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [StatisticWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [FileMonitor] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [QuotaAgent] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [ThriftWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [JmTextWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [TestThriftClientWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [JumeiWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 00:40:40 [JmTextWorker] !!!!!!!!!!!!!!!!!!!!Master has gone !!!!!!!!!!!!!!!!!
+2020-05-09 08:41:09 Server notice:Server is starting ...
+2020-05-09 08:41:10 Server notice:Server start success ...
+2020-05-09 08:41:10 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 08:41:10 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 08:41:10 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 08:41:10 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 08:41:10 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 08:41:10 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 08:41:10 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 08:41:10 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 08:41:10 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 08:41:10 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 08:41:58 [TestClientWorker] WORKER EXIT UNEXPECTED  64 Cannot declare class Handler\PaymentTrade, because the name is already in use in /Users/haolin/work/oilunion/Payment_Service/Handler/PaymentTrade.php on line 662
+2020-05-09 08:41:58 Server notice:worker exit status 65280 pid:14178 worker:TestClientWorker
+2020-05-09 08:42:12 [TestClientWorker] WORKER EXIT UNEXPECTED  64 Cannot declare class Handler\PaymentTrade, because the name is already in use in /Users/haolin/work/oilunion/Payment_Service/Handler/PaymentTrade.php on line 662
+2020-05-09 08:42:12 Server notice:worker exit status 65280 pid:14335 worker:TestClientWorker
+2020-05-09 08:42:59 [JmTextWorker] WORKER EXIT UNEXPECTED  2 stream_select(): supplied resource is not a valid stream resource in /Users/haolin/work/oilunion/PHPServer/core/events/Select.php on line 191
+2020-05-09 09:12:34 Server notice:The terminal is closed ,Server reloading
+2020-05-09 09:12:35 Server notice:
+Worker Restart Success
+2020-05-09 09:12:35 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 09:12:35 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 09:12:35 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 09:12:35 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 09:12:35 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 09:12:35 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 09:12:35 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 09:12:35 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 09:12:35 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 09:12:35 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:11:03 [TestClientWorker] WORKER EXIT UNEXPECTED  64 Cannot declare class Handler\PaymentTrade, because the name is already in use in /Users/haolin/work/oilunion/Payment_Service/Handler/PaymentTrade.php on line 662
+2020-05-09 19:11:03 Server notice:worker exit status 65280 pid:14573 worker:TestClientWorker
+2020-05-09 19:12:07 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Class 'Db\ConfigSchema' not found in /Users/haolin/work/oilunion/Payment_Service/Config/Db.php on line 9
+2020-05-09 19:12:07 Server notice:worker exit status 65280 pid:14550 worker:Payment-Service
+2020-05-09 19:19:09 [JmTextWorker] Max worktime[120s] arrived, auto reloading work process on actual rand worktime[422s]...
+2020-05-09 19:19:46 Server notice:Server is shutting down
+2020-05-09 19:19:46 Server notice:Server stoped
+2020-05-09 19:19:46 Server notice:Server is starting ...
+2020-05-09 19:19:47 Server notice:Server start success ...
+2020-05-09 19:19:47 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:19:47 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:19:47 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:19:47 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:19:47 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:19:47 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:19:47 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:19:47 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:19:47 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:19:47 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:20:30 /Users/haolin/work/oilunion/Payment_Service/Module/Sharding/BatchTradeOrders.php updated and reload workers
+2020-05-09 19:20:30 Server notice:Server reloading
+2020-05-09 19:20:30 Server notice:
+Worker Restart Success
+2020-05-09 19:20:30 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:20:30 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:20:30 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:20:30 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:20:30 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:20:30 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:20:30 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:20:30 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:20:30 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:20:30 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:20:41 /Users/haolin/work/oilunion/Payment_Service/Module/Sharding/BatchTradeOrders.php updated and reload workers
+2020-05-09 19:20:41 Server notice:Server reloading
+2020-05-09 19:20:41 Server notice:
+Worker Restart Success
+2020-05-09 19:20:41 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:20:41 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:20:41 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:20:41 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:20:41 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:20:41 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:20:41 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:20:41 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:20:41 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:20:42 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:02 /Users/haolin/work/oilunion/Payment_Service/Module/Sharding/BatchTradeOrders.php updated and reload workers
+2020-05-09 19:21:02 /Users/haolin/work/oilunion/Payment_Service/Model/Sharding/BatchTradeOrders.php updated and reload workers
+2020-05-09 19:21:02 Server notice:Server reloading
+2020-05-09 19:21:02 Server notice:
+Worker Restart Success
+2020-05-09 19:21:02 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:02 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:02 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:02 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:02 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:02 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:02 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:02 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:02 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:02 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:13 /Users/haolin/work/oilunion/Payment_Service/Model/Sharding/BatchTradeOrders.php updated and reload workers
+2020-05-09 19:21:13 Server notice:Server reloading
+2020-05-09 19:21:13 Server notice:
+Worker Restart Success
+2020-05-09 19:21:13 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:13 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:13 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:13 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:13 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:13 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:13 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:13 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:13 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:13 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:15 /Users/haolin/work/oilunion/Payment_Service/Model/Sharding/BatchTradeOrders.php updated and reload workers
+2020-05-09 19:21:15 Server notice:Server reloading
+2020-05-09 19:21:15 Server notice:
+Worker Restart Success
+2020-05-09 19:21:15 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:16 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:16 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:16 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:16 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:16 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:16 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:16 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:16 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:16 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:25 /Users/haolin/work/oilunion/Payment_Service/Model/Sharding/BatchTradeOrders.php updated and reload workers
+2020-05-09 19:21:25 Server notice:Server reloading
+2020-05-09 19:21:25 Server notice:
+Worker Restart Success
+2020-05-09 19:21:25 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:25 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:25 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:25 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:25 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:25 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:25 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:25 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:21:25 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:21:25 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:22:39 /Users/haolin/work/oilunion/Payment_Service/Vendor/Db/ShardingConnection.php updated and reload workers
+2020-05-09 19:22:39 Server notice:Server reloading
+2020-05-09 19:22:39 Server notice:
+Worker Restart Success
+2020-05-09 19:22:39 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:22:39 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:22:39 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:22:39 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:22:39 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:22:39 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:22:39 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:22:39 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:22:39 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:22:39 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:35:23 /Users/haolin/work/oilunion/Payment_Service/Config/DbSharding.php updated and reload workers
+2020-05-09 19:35:23 Server notice:Server reloading
+2020-05-09 19:35:24 Server notice:
+Worker Restart Success
+2020-05-09 19:35:24 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:35:24 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:35:24 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:35:24 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:35:24 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:35:24 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:35:24 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:35:24 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:35:24 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:35:24 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:39:17 [JmTextWorker] Max worktime[120s] arrived, auto reloading work process on actual rand worktime[234s]...
+2020-05-09 19:40:22 /Users/haolin/work/oilunion/Payment_Service/Model/Sharding/BatchTradeOrders.php updated and reload workers
+2020-05-09 19:40:22 Server notice:Server reloading
+2020-05-09 19:40:22 Server notice:
+Worker Restart Success
+2020-05-09 19:40:22 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:40:22 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:40:22 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:40:22 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:40:22 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:40:22 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:40:22 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:40:22 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:40:22 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:40:22 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:40:39 /Users/haolin/work/oilunion/Payment_Service/Module/Sharding/BatchTradeOrders.php updated and reload workers
+2020-05-09 19:40:39 Server notice:Server reloading
+2020-05-09 19:40:39 Server notice:
+Worker Restart Success
+2020-05-09 19:40:39 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:40:39 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:40:39 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:40:39 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:40:39 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:40:39 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:40:39 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:40:39 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:40:39 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:40:39 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:52:14 [TestClientWorker] WORKER EXIT UNEXPECTED  64 Cannot declare class Handler\PaymentTrade, because the name is already in use in /Users/haolin/work/oilunion/Payment_Service/Handler/PaymentTrade.php on line 662
+2020-05-09 19:52:14 Server notice:worker exit status 65280 pid:23209 worker:TestClientWorker
+2020-05-09 19:52:22 [TestClientWorker] WORKER EXIT UNEXPECTED  64 Cannot declare class Handler\PaymentTrade, because the name is already in use in /Users/haolin/work/oilunion/Payment_Service/Handler/PaymentTrade.php on line 662
+2020-05-09 19:52:23 Server notice:worker exit status 65280 pid:24013 worker:TestClientWorker
+2020-05-09 19:53:13 Server notice:The terminal is closed ,Server reloading
+2020-05-09 19:53:13 Server notice:
+Worker Restart Success
+2020-05-09 19:53:13 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:53:13 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:53:13 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:53:14 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:53:14 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:53:14 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:53:14 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:53:14 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-09 19:53:14 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 19:53:14 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-09 20:11:45 [JmTextWorker] Max worktime[120s] arrived, auto reloading work process on actual rand worktime[1112s]...

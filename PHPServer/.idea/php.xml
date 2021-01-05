@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/Vendor/MNLogger/docs" />
+      <path value="$PROJECT_DIR$/Vendor/Bootstrap/scripts" />
+      <path value="$PROJECT_DIR$/Vendor/Bootstrap/Docs" />
+      <path value="$PROJECT_DIR$/Vendor/PHPClient/examples" />
+    </include_path>
+  </component>
+</project>

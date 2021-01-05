@@ -1,0 +1,981 @@
+2020-05-06 04:57:09 ip:61.93.229.130 Telnet Server
+2020-05-06 11:03:18 Server notice:Server is shutting down
+2020-05-06 11:03:18 Server notice:Server stoped
+2020-05-06 11:03:25 Server notice:Server is starting ...
+2020-05-06 11:03:26 Server notice:Server start success ...
+2020-05-06 11:03:26 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 11:03:26 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 11:03:26 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 11:03:26 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 11:03:26 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 11:03:26 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 11:03:26 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 11:03:26 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 11:03:26 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 11:03:26 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 11:44:30 /data/www/service/hello-service/Vendor/autoload.php updated and reload workers
+2020-05-06 11:44:30 /data/www/service/hello-service/Vendor/composer/autoload_real.php updated and reload workers
+2020-05-06 11:44:30 /data/www/service/hello-service/Vendor/composer/ClassLoader.php updated and reload workers
+2020-05-06 11:44:30 /data/www/service/hello-service/Vendor/composer/autoload_static.php updated and reload workers
+2020-05-06 11:44:30 Server notice:Server reloading
+2020-05-06 11:44:30 Server notice:Server reloading
+2020-05-06 11:44:31 Server notice:
+Worker Restart Success
+2020-05-06 11:44:31 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 11:44:31 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 11:44:31 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 11:44:31 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 11:44:31 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 11:44:31 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 11:44:31 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 11:44:31 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 11:44:31 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 11:44:31 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 11:52:29 [JmTextWorker] Max worktime[120s] arrived, auto reloading work process on actual rand worktime[478s]...
+2020-05-06 11:52:59 Server notice:Server is shutting down
+2020-05-06 11:52:59 Server notice:Server stoped
+2020-05-06 11:52:59 Server notice:Server is starting ...
+2020-05-06 11:52:59 Server notice:Server start success ...
+2020-05-06 11:52:59 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 11:52:59 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 11:52:59 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 11:52:59 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 11:52:59 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 11:52:59 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 11:52:59 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 11:52:59 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 11:52:59 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 11:52:59 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 14:05:26 Server notice:The terminal is closed ,Server reloading
+2020-05-06 14:05:26 Server notice:
+Worker Restart Success
+2020-05-06 14:05:26 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 14:05:26 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 14:05:26 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 14:05:26 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 14:05:26 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 14:05:26 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 14:05:26 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 14:05:26 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 14:05:26 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 14:05:26 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 14:14:16 [JmTextWorker] Max worktime[120s] arrived, auto reloading work process on actual rand worktime[530s]...
+2020-05-06 14:45:33 Server notice:Server is shutting down
+2020-05-06 14:45:33 Server notice:Server stoped
+2020-05-06 14:45:33 Server notice:Server is starting ...
+2020-05-06 14:45:33 Server notice:Server start success ...
+2020-05-06 14:45:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 14:45:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 14:45:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 14:45:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 14:45:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 14:45:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 14:45:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 14:45:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 14:45:34 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 14:45:34 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 14:46:15 [TestClientWorker] WORKER EXIT UNEXPECTED  4 syntax error, unexpected '$this' (T_VARIABLE) in /data/www/service/ServiceBase/Handler/TestHandler.php on line 31
+2020-05-06 14:46:15 Server notice:worker exit status 65280 pid:21089 worker:TestClientWorker
+2020-05-06 14:46:36 [TestClientWorker] WORKER EXIT UNEXPECTED  4 syntax error, unexpected '$this' (T_VARIABLE) in /data/www/service/ServiceBase/Handler/TestHandler.php on line 31
+2020-05-06 14:46:36 Server notice:worker exit status 65280 pid:21097 worker:TestClientWorker
+2020-05-06 14:47:16 [JmTextWorker] WORKER EXIT UNEXPECTED  16 Exception thrown without a stack frame in Unknown on line 0
+2020-05-06 14:47:16 Server notice:worker exit status 65280 pid:20991 worker:ServiceBase
+2020-05-06 14:47:20 [TestClientWorker] WORKER EXIT UNEXPECTED  4 syntax error, unexpected '$this' (T_VARIABLE) in /data/www/service/ServiceBase/Handler/TestHandler.php on line 31
+2020-05-06 14:47:20 Server notice:worker exit status 65280 pid:21113 worker:TestClientWorker
+2020-05-06 14:50:59 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 14:50:59 Server notice:Server reloading
+2020-05-06 14:50:59 Server notice:
+Worker Restart Success
+2020-05-06 14:50:59 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 14:50:59 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 14:50:59 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 14:50:59 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 14:50:59 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 14:50:59 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 14:50:59 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 14:50:59 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 14:50:59 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 14:50:59 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:02:45 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 15:02:45 Server notice:Server reloading
+2020-05-06 15:02:45 Server notice:
+Worker Restart Success
+2020-05-06 15:02:45 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:02:45 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:02:45 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:02:45 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:02:45 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:02:45 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:02:45 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:02:45 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:02:45 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:02:45 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:03:23 /data/www/service/ServiceBase/Vendor/Bootstrap/Autoloader.php updated and reload workers
+2020-05-06 15:03:23 /data/www/service/ServiceBase/Vendor/MNLogger/Base.php updated and reload workers
+2020-05-06 15:03:23 /data/www/service/ServiceBase/Vendor/MNLogger/TraceLogger.php updated and reload workers
+2020-05-06 15:03:23 Server notice:Server reloading
+2020-05-06 15:03:23 Server notice:Server reloading
+2020-05-06 15:03:23 Server notice:
+Worker Restart Success
+2020-05-06 15:03:23 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:03:23 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:03:23 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:03:23 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:03:23 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:03:23 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:03:23 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:03:23 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:03:23 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:03:23 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:03:24 /data/www/service/ServiceBase/Vendor/PHPClient/JMTextRpcClient.php updated and reload workers
+2020-05-06 15:03:24 /data/www/service/ServiceBase/Vendor/SharedMemory/Shm.php updated and reload workers
+2020-05-06 15:03:24 Server notice:Server reloading
+2020-05-06 15:03:24 Server notice:
+Worker Restart Success
+2020-05-06 15:03:24 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:03:24 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:03:24 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:03:24 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:03:24 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:03:24 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:03:24 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:03:24 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:03:24 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:03:24 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:03:45 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught TypeError: Argument 1 passed to Db\Connection::getOneSlave() must be of the type array, null given, called in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 398 and defined in /data/www/service/ServiceBase/Vendor/Db/Connection.php:1494
+Stack trace:
+#0 /data/www/service/ServiceBase/Vendor/Db/Connection.php(398): Db\Connection->getOneSlave(NULL)
+#1 /data/www/service/ServiceBase/Vendor/Db/Connection.php(369): Db\Connection->addReadConnection('default')
+#2 /data/www/service/ServiceBase/Vendor/Model/DbBase.php(109): Db\Connection->read('default')
+#3 /data/www/service/ServiceBase/Model/TestModel.php(81): Model\DbBase->db('default', 'read')
+#4 /data/www/service/ServiceBase/Module/TestModule.php(39): Model\TestModel->getInfoByName('hello')
+#5 /data/www/service/ServiceBase/Handler/TestHandler.php(29): Module\TestModule->getTestData('hello')
+#6 /data/www/PHPServer/workers/JmTextWorker.php(130): Handler\TestHandler->test('hello')
+#7 /data/www/PHPServer/workers/RpcWorker.php(139): JmTextWorker->p in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 1494
+2020-05-06 15:03:45 Server notice:worker exit status 65280 pid:21896 worker:ServiceBase
+2020-05-06 15:11:03 /data/www/service/ServiceBase/Vendor/Db/Connection.php updated and reload workers
+2020-05-06 15:11:03 Server notice:Server reloading
+2020-05-06 15:11:03 Server notice:
+Worker Restart Success
+2020-05-06 15:11:03 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:11:03 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:11:03 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:11:03 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:11:03 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:11:03 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:11:03 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:11:03 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:11:03 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:11:03 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:11:14 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught TypeError: Argument 1 passed to Db\Connection::getOneSlave() must be of the type array, null given, called in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 399 and defined in /data/www/service/ServiceBase/Vendor/Db/Connection.php:1495
+Stack trace:
+#0 /data/www/service/ServiceBase/Vendor/Db/Connection.php(399): Db\Connection->getOneSlave(NULL)
+#1 /data/www/service/ServiceBase/Vendor/Db/Connection.php(369): Db\Connection->addReadConnection('default')
+#2 /data/www/service/ServiceBase/Vendor/Model/DbBase.php(109): Db\Connection->read('default')
+#3 /data/www/service/ServiceBase/Model/TestModel.php(81): Model\DbBase->db('default', 'read')
+#4 /data/www/service/ServiceBase/Module/TestModule.php(39): Model\TestModel->getInfoByName('hello')
+#5 /data/www/service/ServiceBase/Handler/TestHandler.php(29): Module\TestModule->getTestData('hello')
+#6 /data/www/PHPServer/workers/JmTextWorker.php(130): Handler\TestHandler->test('hello')
+#7 /data/www/PHPServer/workers/RpcWorker.php(139): JmTextWorker->p in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 1495
+2020-05-06 15:11:14 Server notice:worker exit status 65280 pid:22356 worker:ServiceBase
+2020-05-06 15:19:31 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 15:19:31 Server notice:Server reloading
+2020-05-06 15:19:31 Server notice:
+Worker Restart Success
+2020-05-06 15:19:31 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:19:31 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:19:31 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:19:31 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:19:31 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:19:31 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:19:31 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:19:31 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:19:31 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:19:31 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:20:01 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 15:20:01 Server notice:Server reloading
+2020-05-06 15:20:01 Server notice:
+Worker Restart Success
+2020-05-06 15:20:01 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:20:01 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:20:01 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:20:01 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:20:01 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:20:01 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:20:01 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:20:01 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:20:01 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:20:01 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:20:29 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 15:20:29 Server notice:Server reloading
+2020-05-06 15:20:29 Server notice:
+Worker Restart Success
+2020-05-06 15:20:29 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:20:29 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:20:29 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:20:29 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:20:29 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:20:29 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:20:29 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:20:29 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:20:29 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:20:29 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:20:37 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 15:20:37 Server notice:Server reloading
+2020-05-06 15:20:37 Server notice:
+Worker Restart Success
+2020-05-06 15:20:37 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:20:37 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:20:37 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:20:37 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:20:37 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:20:37 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:20:37 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:20:37 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:20:37 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:20:37 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:09 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 15:21:09 Server notice:Server reloading
+2020-05-06 15:21:09 Server notice:
+Worker Restart Success
+2020-05-06 15:21:09 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:21:09 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:09 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:21:09 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:09 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:21:09 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:09 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:21:09 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:09 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:21:09 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:11 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 15:21:11 Server notice:Server reloading
+2020-05-06 15:21:11 Server notice:
+Worker Restart Success
+2020-05-06 15:21:11 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:21:11 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:11 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:21:11 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:11 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:21:11 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:11 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:21:11 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:11 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:21:11 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:33 /data/www/service/ServiceBase/Model/TestModel.php updated and reload workers
+2020-05-06 15:21:33 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 15:21:33 Server notice:Server reloading
+2020-05-06 15:21:33 Server notice:
+Worker Restart Success
+2020-05-06 15:21:34 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:21:34 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:34 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:21:34 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:34 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:21:34 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:34 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:21:34 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:34 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:21:34 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:21:37 ip:210.6.53.254 Telnet Server
+2020-05-06 15:22:58 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 15:22:58 Server notice:Server reloading
+2020-05-06 15:22:58 Server notice:
+Worker Restart Success
+2020-05-06 15:22:58 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:22:58 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:22:58 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:22:58 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:22:58 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:22:58 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:22:58 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:22:58 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:22:58 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:22:58 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:26:16 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught TypeError: Argument 1 passed to Db\Connection::getOneSlave() must be of the type array, null given, called in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 399 and defined in /data/www/service/ServiceBase/Vendor/Db/Connection.php:1495
+Stack trace:
+#0 /data/www/service/ServiceBase/Vendor/Db/Connection.php(399): Db\Connection->getOneSlave(NULL)
+#1 /data/www/service/ServiceBase/Vendor/Db/Connection.php(369): Db\Connection->addReadConnection('unionoil_user')
+#2 /data/www/service/ServiceBase/Vendor/Model/DbBase.php(109): Db\Connection->read('unionoil_user')
+#3 /data/www/service/ServiceBase/Model/TestModel.php(81): Model\DbBase->db('unionoil_user', 'read')
+#4 /data/www/service/ServiceBase/Module/TestModule.php(39): Model\TestModel->getInfoByName('hello')
+#5 /data/www/service/ServiceBase/Handler/TestHandler.php(29): Module\TestModule->getTestData('hello')
+#6 /data/www/PHPServer/workers/JmTextWorker.php(130): Handler\TestHandler->test('hello')
+#7 /data/www/PHPServer/workers/RpcWorker.php(139 in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 1495
+2020-05-06 15:26:16 Server notice:worker exit status 65280 pid:23911 worker:ServiceBase
+2020-05-06 15:27:34 /data/www/service/ServiceBase/Model/TestModel.php updated and reload workers
+2020-05-06 15:27:34 Server notice:Server reloading
+2020-05-06 15:27:34 Server notice:
+Worker Restart Success
+2020-05-06 15:27:34 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:27:34 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:27:34 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:27:34 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:27:34 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:27:34 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:27:34 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:27:34 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:27:34 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:27:34 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:27:40 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught TypeError: Argument 1 passed to Db\Connection::getOneSlave() must be of the type array, null given, called in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 399 and defined in /data/www/service/ServiceBase/Vendor/Db/Connection.php:1495
+Stack trace:
+#0 /data/www/service/ServiceBase/Vendor/Db/Connection.php(399): Db\Connection->getOneSlave(NULL)
+#1 /data/www/service/ServiceBase/Vendor/Db/Connection.php(369): Db\Connection->addReadConnection('unionoil_user')
+#2 /data/www/service/ServiceBase/Model/TestModel.php(81): Db\Connection->read('unionoil_user')
+#3 /data/www/service/ServiceBase/Module/TestModule.php(39): Model\TestModel->getInfoByName('hello')
+#4 /data/www/service/ServiceBase/Handler/TestHandler.php(29): Module\TestModule->getTestData('hello')
+#5 /data/www/PHPServer/workers/JmTextWorker.php(130): Handler\TestHandler->test('hello')
+#6 /data/www/PHPServer/workers/RpcWorker.php(139): JmTextWorker->process(Array)
+#7 /data/www/PHPServer/core/PHPServerWorker.php(436): RpcWorker->dealProc in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 1495
+2020-05-06 15:27:40 Server notice:worker exit status 65280 pid:24165 worker:ServiceBase
+2020-05-06 15:29:23 /data/www/service/ServiceBase/Vendor/Db/Connection.php updated and reload workers
+2020-05-06 15:29:23 Server notice:Server reloading
+2020-05-06 15:29:24 Server notice:
+Worker Restart Success
+2020-05-06 15:29:24 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:29:24 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:29:24 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:29:24 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:29:24 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:29:24 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:29:24 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:29:24 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:29:24 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:29:24 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:29:28 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught TypeError: Argument 1 passed to Db\Connection::getOneSlave() must be of the type array, null given, called in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 401 and defined in /data/www/service/ServiceBase/Vendor/Db/Connection.php:1497
+Stack trace:
+#0 /data/www/service/ServiceBase/Vendor/Db/Connection.php(401): Db\Connection->getOneSlave(NULL)
+#1 /data/www/service/ServiceBase/Vendor/Db/Connection.php(369): Db\Connection->addReadConnection('unionoil_user')
+#2 /data/www/service/ServiceBase/Model/TestModel.php(81): Db\Connection->read('unionoil_user')
+#3 /data/www/service/ServiceBase/Module/TestModule.php(39): Model\TestModel->getInfoByName('hello')
+#4 /data/www/service/ServiceBase/Handler/TestHandler.php(29): Module\TestModule->getTestData('hello')
+#5 /data/www/PHPServer/workers/JmTextWorker.php(130): Handler\TestHandler->test('hello')
+#6 /data/www/PHPServer/workers/RpcWorker.php(139): JmTextWorker->process(Array)
+#7 /data/www/PHPServer/core/PHPServerWorker.php(436): RpcWorker->dealProc in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 1497
+2020-05-06 15:29:28 Server notice:worker exit status 65280 pid:24380 worker:ServiceBase
+2020-05-06 15:30:05 /data/www/service/ServiceBase/Vendor/Db/Connection.php updated and reload workers
+2020-05-06 15:30:05 Server notice:Server reloading
+2020-05-06 15:30:05 Server notice:
+Worker Restart Success
+2020-05-06 15:30:05 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:30:05 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:30:05 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:30:05 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:30:05 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:30:05 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:30:05 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:30:05 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:30:05 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:30:05 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:30:10 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught TypeError: Argument 1 passed to Db\Connection::getOneSlave() must be of the type array, null given, called in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 402 and defined in /data/www/service/ServiceBase/Vendor/Db/Connection.php:1498
+Stack trace:
+#0 /data/www/service/ServiceBase/Vendor/Db/Connection.php(402): Db\Connection->getOneSlave(NULL)
+#1 /data/www/service/ServiceBase/Vendor/Db/Connection.php(369): Db\Connection->addReadConnection('unionoil_user')
+#2 /data/www/service/ServiceBase/Model/TestModel.php(81): Db\Connection->read('unionoil_user')
+#3 /data/www/service/ServiceBase/Module/TestModule.php(39): Model\TestModel->getInfoByName('hello')
+#4 /data/www/service/ServiceBase/Handler/TestHandler.php(29): Module\TestModule->getTestData('hello')
+#5 /data/www/PHPServer/workers/JmTextWorker.php(130): Handler\TestHandler->test('hello')
+#6 /data/www/PHPServer/workers/RpcWorker.php(139): JmTextWorker->process(Array)
+#7 /data/www/PHPServer/core/PHPServerWorker.php(436): RpcWorker->dealProc in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 1498
+2020-05-06 15:30:10 Server notice:worker exit status 65280 pid:24521 worker:ServiceBase
+2020-05-06 15:33:22 /data/www/service/ServiceBase/Vendor/Db/Connection.php updated and reload workers
+2020-05-06 15:33:22 Server notice:Server reloading
+2020-05-06 15:33:23 Server notice:
+Worker Restart Success
+2020-05-06 15:33:23 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:33:23 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:33:23 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:33:23 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:33:23 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:33:23 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:33:23 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:33:23 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:33:23 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:33:23 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:33:27 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught Error: Call to a member function quote() on null in /data/www/service/ServiceBase/Vendor/Db/Connection.php:577
+Stack trace:
+#0 /data/www/service/ServiceBase/Vendor/Db/Connection.php(1014): Db\Connection->quote('hello')
+#1 /data/www/service/ServiceBase/Vendor/Db/Connection.php(1114): Db\Connection->buildCondition(Array)
+#2 /data/www/service/ServiceBase/Model/TestModel.php(81): Db\Connection->where(Array)
+#3 /data/www/service/ServiceBase/Module/TestModule.php(39): Model\TestModel->getInfoByName('hello')
+#4 /data/www/service/ServiceBase/Handler/TestHandler.php(29): Module\TestModule->getTestData('hello')
+#5 /data/www/PHPServer/workers/JmTextWorker.php(130): Handler\TestHandler->test('hello')
+#6 /data/www/PHPServer/workers/RpcWorker.php(139): JmTextWorker->process(Array)
+#7 /data/www/PHPServer/core/PHPServerWorker.php(436): RpcWorker->dealProcess('3\nRPC\n293\n{"dat...')
+#8 /data/www/PHPServer/core/events/Select.php(229): PHPServerWorker->dealInputBase(Resource id #5428, 304, '3\nRPC\n293\n{"dat...', 542 in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 577
+2020-05-06 15:33:27 Server notice:worker exit status 65280 pid:24820 worker:ServiceBase
+2020-05-06 15:34:27 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 15:34:27 Server notice:Server reloading
+2020-05-06 15:34:27 Server notice:
+Worker Restart Success
+2020-05-06 15:34:27 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:34:27 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:34:27 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:34:27 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:34:27 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:34:27 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:34:27 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:34:27 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:34:27 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:34:27 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:40:29 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 15:40:29 Server notice:Server reloading
+2020-05-06 15:40:29 Server notice:
+Worker Restart Success
+2020-05-06 15:40:29 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:40:29 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:40:29 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:40:29 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:40:29 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:40:29 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:40:29 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:40:29 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:40:29 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:40:29 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:40:56 Server notice:Server is shutting down
+2020-05-06 15:40:56 Server notice:Server stoped
+2020-05-06 15:40:56 Server notice:Server is starting ...
+2020-05-06 15:40:56 Server notice:Server start success ...
+2020-05-06 15:40:56 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:40:56 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:40:56 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:40:56 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:40:56 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:40:56 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:40:56 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:40:56 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:40:56 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:40:56 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:41:00 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught TypeError: PDO::__construct() expects parameter 4 to be array, string given in /data/www/service/ServiceBase/Vendor/Db/Connection.php:456
+Stack trace:
+#0 /data/www/service/ServiceBase/Vendor/Db/Connection.php(456): PDO->__construct('m', 'm', 'm', 'm              ...')
+#1 /data/www/service/ServiceBase/Vendor/Db/Connection.php(99): Db\Connection->connect('m', 'm', 'm', 'm              ...')
+#2 /data/www/service/ServiceBase/Vendor/Db/Connection.php(405): Db\Connection->__construct('m', 'm', 'm', 'm')
+#3 /data/www/service/ServiceBase/Vendor/Db/Connection.php(369): Db\Connection->addReadConnection('unionoil_user')
+#4 /data/www/service/ServiceBase/Model/TestModel.php(81): Db\Connection->read('unionoil_user')
+#5 /data/www/service/ServiceBase/Module/TestModule.php(39): Model\TestModel->getInfoByName('hello')
+#6 /data/www/service/ServiceBase/Handler/TestHandler.php(29): Module\TestModule->getTestData('hello')
+#7 /data/www/PHPServer/workers/JmTextWorker.php(130): Handler\TestHandler->test('hello')
+#8 /data/www in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 456
+2020-05-06 15:41:00 Server notice:worker exit status 65280 pid:25677 worker:ServiceBase
+2020-05-06 15:41:32 Server notice:Server is shutting down
+2020-05-06 15:41:32 Server notice:Server stoped
+2020-05-06 15:41:32 Server notice:Server is starting ...
+2020-05-06 15:41:33 Server notice:Server start success ...
+2020-05-06 15:41:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:41:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:41:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:41:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:41:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:41:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:41:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:41:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:41:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:41:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:41:37 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught TypeError: Argument 1 passed to Db\Connection::getOneSlave() must be of the type array, null given, called in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 401 and defined in /data/www/service/ServiceBase/Vendor/Db/Connection.php:1497
+Stack trace:
+#0 /data/www/service/ServiceBase/Vendor/Db/Connection.php(401): Db\Connection->getOneSlave(NULL)
+#1 /data/www/service/ServiceBase/Vendor/Db/Connection.php(369): Db\Connection->addReadConnection('unionoil_user')
+#2 /data/www/service/ServiceBase/Model/TestModel.php(81): Db\Connection->read('unionoil_user')
+#3 /data/www/service/ServiceBase/Module/TestModule.php(39): Model\TestModel->getInfoByName('hello')
+#4 /data/www/service/ServiceBase/Handler/TestHandler.php(29): Module\TestModule->getTestData('hello')
+#5 /data/www/PHPServer/workers/JmTextWorker.php(130): Handler\TestHandler->test('hello')
+#6 /data/www/PHPServer/workers/RpcWorker.php(139): JmTextWorker->process(Array)
+#7 /data/www/PHPServer/core/PHPServerWorker.php(436): RpcWorker->dealProc in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 1497
+2020-05-06 15:41:37 Server notice:worker exit status 65280 pid:25847 worker:ServiceBase
+2020-05-06 15:43:23 Server notice:Server is shutting down
+2020-05-06 15:43:23 Server notice:Server stoped
+2020-05-06 15:43:23 Server notice:Server is starting ...
+2020-05-06 15:43:23 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:43:23 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:43:23 Server notice:Server start success ...
+2020-05-06 15:43:23 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:43:23 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:43:23 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:43:23 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:43:23 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:43:23 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:43:23 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:43:23 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:43:25 [JmTextWorker] WORKER EXIT UNEXPECTED  16 Exception thrown without a stack frame in Unknown on line 0
+2020-05-06 15:43:25 Server notice:worker exit status 65280 pid:26052 worker:ServiceBase
+2020-05-06 15:44:01 Server notice:Server is shutting down
+2020-05-06 15:44:01 Server notice:Server stoped
+2020-05-06 15:44:01 Server notice:Server is starting ...
+2020-05-06 15:44:02 Server notice:Server start success ...
+2020-05-06 15:44:02 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:44:02 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:44:02 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:44:02 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:44:02 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:44:02 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:44:02 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:44:02 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:44:02 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:44:02 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:44:05 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught TypeError: Argument 1 passed to Db\Connection::getOneSlave() must be of the type array, null given, called in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 401 and defined in /data/www/service/ServiceBase/Vendor/Db/Connection.php:1497
+Stack trace:
+#0 /data/www/service/ServiceBase/Vendor/Db/Connection.php(401): Db\Connection->getOneSlave(NULL)
+#1 /data/www/service/ServiceBase/Vendor/Db/Connection.php(369): Db\Connection->addReadConnection('unionoil_user')
+#2 /data/www/service/ServiceBase/Model/TestModel.php(81): Db\Connection->read('unionoil_user')
+#3 /data/www/service/ServiceBase/Module/TestModule.php(39): Model\TestModel->getInfoByName('hello')
+#4 /data/www/service/ServiceBase/Handler/TestHandler.php(29): Module\TestModule->getTestData('hello')
+#5 /data/www/PHPServer/workers/JmTextWorker.php(130): Handler\TestHandler->test('hello')
+#6 /data/www/PHPServer/workers/RpcWorker.php(139): JmTextWorker->process(Array)
+#7 /data/www/PHPServer/core/PHPServerWorker.php(436): RpcWorker->dealProc in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 1497
+2020-05-06 15:44:05 Server notice:worker exit status 65280 pid:26211 worker:ServiceBase
+2020-05-06 15:44:51 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught TypeError: Argument 1 passed to Db\Connection::getOneSlave() must be of the type array, null given, called in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 401 and defined in /data/www/service/ServiceBase/Vendor/Db/Connection.php:1497
+Stack trace:
+#0 /data/www/service/ServiceBase/Vendor/Db/Connection.php(401): Db\Connection->getOneSlave(NULL)
+#1 /data/www/service/ServiceBase/Vendor/Db/Connection.php(369): Db\Connection->addReadConnection('unionoil_user')
+#2 /data/www/service/ServiceBase/Model/TestModel.php(80): Db\Connection->read('unionoil_user')
+#3 /data/www/service/ServiceBase/Module/TestModule.php(39): Model\TestModel->getInfoByName('hello')
+#4 /data/www/service/ServiceBase/Handler/TestHandler.php(29): Module\TestModule->getTestData('hello')
+#5 /data/www/PHPServer/workers/JmTextWorker.php(130): Handler\TestHandler->test('hello')
+#6 /data/www/PHPServer/workers/RpcWorker.php(139): JmTextWorker->process(Array)
+#7 /data/www/PHPServer/core/PHPServerWorker.php(436): RpcWorker->dealProc in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 1497
+2020-05-06 15:44:51 Server notice:worker exit status 65280 pid:26317 worker:ServiceBase
+2020-05-06 15:44:58 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught TypeError: Argument 1 passed to Db\Connection::getOneSlave() must be of the type array, null given, called in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 401 and defined in /data/www/service/ServiceBase/Vendor/Db/Connection.php:1497
+Stack trace:
+#0 /data/www/service/ServiceBase/Vendor/Db/Connection.php(401): Db\Connection->getOneSlave(NULL)
+#1 /data/www/service/ServiceBase/Vendor/Db/Connection.php(369): Db\Connection->addReadConnection('unionoil_user')
+#2 /data/www/service/ServiceBase/Model/TestModel.php(80): Db\Connection->read('unionoil_user')
+#3 /data/www/service/ServiceBase/Module/TestModule.php(39): Model\TestModel->getInfoByName('hello')
+#4 /data/www/service/ServiceBase/Handler/TestHandler.php(29): Module\TestModule->getTestData('hello')
+#5 /data/www/PHPServer/workers/JmTextWorker.php(130): Handler\TestHandler->test('hello')
+#6 /data/www/PHPServer/workers/RpcWorker.php(139): JmTextWorker->process(Array)
+#7 /data/www/PHPServer/core/PHPServerWorker.php(436): RpcWorker->dealProc in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 1497
+2020-05-06 15:44:58 Server notice:worker exit status 65280 pid:26331 worker:ServiceBase
+2020-05-06 15:52:55 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught Error: Class 'Util\BusinessMonitor' not found in /data/www/service/ServiceBase/init.php:33
+Stack trace:
+#0 /data/www/PHPServer/workers/JmTextWorker.php(179): on_phpserver_request_finish('JmTextWorker', Array, Array)
+#1 /data/www/PHPServer/workers/RpcWorker.php(139): JmTextWorker->process(Array)
+#2 /data/www/PHPServer/core/PHPServerWorker.php(436): RpcWorker->dealProcess('3\nRPC\n293\n{"dat...')
+#3 /data/www/PHPServer/core/events/Select.php(229): PHPServerWorker->dealInputBase(Resource id #175, 304, '3\nRPC\n293\n{"dat...', 175)
+#4 /data/www/PHPServer/core/PHPServerWorker.php(194): Select->loop()
+#5 /data/www/PHPServer/workers/RpcWorker.php(54): PHPServerWorker->serve(true)
+#6 /data/www/PHPServer/core/PHPServer.php(495): RpcWorker->serve()
+#7 /data/www/PHPServer/core/PHPServer.php(363): PHPServer::forkOneWorker('ServiceBase')
+#8 /data/www/PHPServer/core/PHPServer.php(736): PHPServer::createWorkers()
+#9 /data/www/PHPServer/core/PHPServer.php(553): PHPServer::monitorWorkers()
+#10 /data/www/PHPServer/cor in /data/www/service/ServiceBase/init.php on line 33
+2020-05-06 15:52:55 Server notice:worker exit status 65280 pid:26337 worker:ServiceBase
+2020-05-06 15:53:33 /data/www/service/ServiceBase/init.php updated and reload workers
+2020-05-06 15:53:33 Server notice:Server reloading
+2020-05-06 15:53:33 Server notice:
+Worker Restart Success
+2020-05-06 15:53:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:53:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:53:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:53:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:53:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:53:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:53:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:53:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:53:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:53:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:53:41 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught Error: Class 'Util\Helper' not found in /data/www/service/ServiceBase/init.php:34
+Stack trace:
+#0 /data/www/PHPServer/workers/JmTextWorker.php(179): on_phpserver_request_finish('JmTextWorker', Array, Array)
+#1 /data/www/PHPServer/workers/RpcWorker.php(139): JmTextWorker->process(Array)
+#2 /data/www/PHPServer/core/PHPServerWorker.php(436): RpcWorker->dealProcess('3\nRPC\n293\n{"dat...')
+#3 /data/www/PHPServer/core/events/Select.php(229): PHPServerWorker->dealInputBase(Resource id #997, 304, '3\nRPC\n293\n{"dat...', 997)
+#4 /data/www/PHPServer/core/PHPServerWorker.php(194): Select->loop()
+#5 /data/www/PHPServer/workers/RpcWorker.php(54): PHPServerWorker->serve(true)
+#6 /data/www/PHPServer/core/PHPServer.php(495): RpcWorker->serve()
+#7 /data/www/PHPServer/core/PHPServer.php(363): PHPServer::forkOneWorker('ServiceBase')
+#8 /data/www/PHPServer/core/PHPServer.php(736): PHPServer::createWorkers()
+#9 /data/www/PHPServer/core/PHPServer.php(553): PHPServer::monitorWorkers()
+#10 /data/www/PHPServer/core/events/ in /data/www/service/ServiceBase/init.php on line 34
+2020-05-06 15:53:41 Server notice:worker exit status 65280 pid:26647 worker:ServiceBase
+2020-05-06 15:58:37 /data/www/service/ServiceBase/init.php updated and reload workers
+2020-05-06 15:58:37 Server notice:Server reloading
+2020-05-06 15:58:37 Server notice:send cmd:6 to pid:26594 fail
+2020-05-06 15:58:37 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:58:37 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:58:37 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:58:37 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:58:37 Server notice:
+Worker Restart Success
+2020-05-06 15:58:37 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:58:37 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:58:37 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:58:37 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:58:37 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 15:58:37 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 15:59:17 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught TypeError: Argument 1 passed to Db\Connection::getOneSlave() must be of the type array, null given, called in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 401 and defined in /data/www/service/ServiceBase/Vendor/Db/Connection.php:1497
+Stack trace:
+#0 /data/www/service/ServiceBase/Vendor/Db/Connection.php(401): Db\Connection->getOneSlave(NULL)
+#1 /data/www/service/ServiceBase/Vendor/Db/Connection.php(369): Db\Connection->addReadConnection('default')
+#2 /data/www/service/ServiceBase/Vendor/Model/DbBase.php(109): Db\Connection->read('default')
+#3 /data/www/service/ServiceBase/Model/TestModel.php(83): Model\DbBase->db('default', 'read')
+#4 /data/www/service/ServiceBase/Module/TestModule.php(39): Model\TestModel->getInfoByName('hello')
+#5 /data/www/service/ServiceBase/Handler/TestHandler.php(29): Module\TestModule->getTestData('hello')
+#6 /data/www/PHPServer/workers/JmTextWorker.php(130): Handler\TestHandler->test('hello')
+#7 /data/www/PHPServer/workers/RpcWorker.php(139): JmTextWorker->p in /data/www/service/ServiceBase/Vendor/Db/Connection.php on line 1497
+2020-05-06 15:59:17 Server notice:worker exit status 65280 pid:26998 worker:ServiceBase
+2020-05-06 16:00:11 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught Error: Class 'Util\BusinessMonitor' not found in /data/www/service/ServiceBase/init.php:33
+Stack trace:
+#0 /data/www/PHPServer/workers/JmTextWorker.php(179): on_phpserver_request_finish('JmTextWorker', Array, Array)
+#1 /data/www/PHPServer/workers/RpcWorker.php(139): JmTextWorker->process(Array)
+#2 /data/www/PHPServer/core/PHPServerWorker.php(436): RpcWorker->dealProcess('3\nRPC\n293\n{"dat...')
+#3 /data/www/PHPServer/core/events/Select.php(229): PHPServerWorker->dealInputBase(Resource id #1615, 304, '3\nRPC\n293\n{"dat...', 1615)
+#4 /data/www/PHPServer/core/PHPServerWorker.php(194): Select->loop()
+#5 /data/www/PHPServer/workers/RpcWorker.php(54): PHPServerWorker->serve(true)
+#6 /data/www/PHPServer/core/PHPServer.php(495): RpcWorker->serve()
+#7 /data/www/PHPServer/core/PHPServer.php(363): PHPServer::forkOneWorker('ServiceBase')
+#8 /data/www/PHPServer/core/PHPServer.php(736): PHPServer::createWorkers()
+#9 /data/www/PHPServer/core/PHPServer.php(553): PHPServer::monitorWorkers()
+#10 /data/www/PHPServer/c in /data/www/service/ServiceBase/init.php on line 33
+2020-05-06 16:00:11 Server notice:worker exit status 65280 pid:27086 worker:ServiceBase
+2020-05-06 16:00:25 /data/www/service/ServiceBase/init.php updated and reload workers
+2020-05-06 16:00:25 Server notice:Server reloading
+2020-05-06 16:00:25 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:00:25 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:00:25 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:00:25 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:00:25 Server notice:
+Worker Restart Success
+2020-05-06 16:00:25 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:00:25 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:00:25 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:00:25 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:00:25 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:00:25 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:02:21 /data/www/service/ServiceBase/init.php updated and reload workers
+2020-05-06 16:02:21 Server notice:Server reloading
+2020-05-06 16:02:22 Server notice:
+Worker Restart Success
+2020-05-06 16:02:22 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:02:22 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:02:22 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:02:22 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:02:22 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:02:22 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:02:22 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:02:22 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:02:22 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:02:22 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:02:35 /data/www/service/ServiceBase/init.php updated and reload workers
+2020-05-06 16:02:35 Server notice:Server reloading
+2020-05-06 16:02:36 Server notice:
+Worker Restart Success
+2020-05-06 16:02:36 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:02:36 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:02:36 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:02:36 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:02:36 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:02:36 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:02:36 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:02:36 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:02:36 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:02:36 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:11:38 /data/www/service/ServiceBase/init.php updated and reload workers
+2020-05-06 16:11:38 Server notice:Server reloading
+2020-05-06 16:11:39 Server notice:
+Worker Restart Success
+2020-05-06 16:11:39 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:11:39 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:11:39 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:11:39 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:11:39 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:11:39 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:11:39 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:11:39 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:11:39 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:11:39 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:13:50 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 16:13:50 /data/www/service/ServiceBase/Config/MNLogger.php updated and reload workers
+2020-05-06 16:13:50 Server notice:Server reloading
+2020-05-06 16:13:51 Server notice:
+Worker Restart Success
+2020-05-06 16:13:51 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:13:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:13:51 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:13:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:13:51 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:13:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:13:51 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:13:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:13:51 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:13:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:15:39 /data/www/service/ServiceBase/init.php updated and reload workers
+2020-05-06 16:15:39 /data/www/service/ServiceBase/Model/TestModel.php updated and reload workers
+2020-05-06 16:15:39 Server notice:Server reloading
+2020-05-06 16:15:39 Server notice:Server reloading
+2020-05-06 16:15:40 Server notice:
+Worker Restart Success
+2020-05-06 16:15:40 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:15:40 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:15:40 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:15:40 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:15:40 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:15:40 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:15:40 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:15:40 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:15:40 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:15:40 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:15:52 [JmTextWorker] WORKER EXIT UNEXPECTED  1 Uncaught Error: Class 'Util\Helper' not found in /data/www/service/ServiceBase/init.php:34
+Stack trace:
+#0 /data/www/PHPServer/workers/JmTextWorker.php(179): on_phpserver_request_finish('JmTextWorker', Array, Array)
+#1 /data/www/PHPServer/workers/RpcWorker.php(139): JmTextWorker->process(Array)
+#2 /data/www/PHPServer/core/PHPServerWorker.php(436): RpcWorker->dealProcess('3\nRPC\n291\n{"dat...')
+#3 /data/www/PHPServer/core/events/Select.php(229): PHPServerWorker->dealInputBase(Resource id #3418, 302, '3\nRPC\n291\n{"dat...', 3418)
+#4 /data/www/PHPServer/core/PHPServerWorker.php(194): Select->loop()
+#5 /data/www/PHPServer/workers/RpcWorker.php(54): PHPServerWorker->serve(true)
+#6 /data/www/PHPServer/core/PHPServer.php(495): RpcWorker->serve()
+#7 /data/www/PHPServer/core/PHPServer.php(363): PHPServer::forkOneWorker('ServiceBase')
+#8 /data/www/PHPServer/core/PHPServer.php(736): PHPServer::createWorkers()
+#9 /data/www/PHPServer/core/PHPServer.php(553): PHPServer::monitorWorkers()
+#10 /data/www/PHPServer/core/event in /data/www/service/ServiceBase/init.php on line 34
+2020-05-06 16:15:52 Server notice:worker exit status 65280 pid:28407 worker:ServiceBase
+2020-05-06 16:16:46 /data/www/service/ServiceBase/init.php updated and reload workers
+2020-05-06 16:16:46 Server notice:Server reloading
+2020-05-06 16:16:46 Server notice:
+Worker Restart Success
+2020-05-06 16:16:46 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:16:46 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:16:46 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:16:46 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:16:46 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:16:46 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:16:46 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:16:46 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:16:46 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:16:46 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:18:32 /data/www/service/ServiceBase/Vendor/MNLogger/Base.php updated and reload workers
+2020-05-06 16:18:32 Server notice:Server reloading
+2020-05-06 16:18:33 Server notice:
+Worker Restart Success
+2020-05-06 16:18:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:18:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:18:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:18:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:18:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:18:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:18:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:18:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:18:33 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:18:33 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:20:48 /data/www/service/ServiceBase/Vendor/MNLogger/Base.php updated and reload workers
+2020-05-06 16:20:48 Server notice:Server reloading
+2020-05-06 16:20:48 Server notice:
+Worker Restart Success
+2020-05-06 16:20:48 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:20:48 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:20:48 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:20:48 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:20:48 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:20:48 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:20:48 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:20:48 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:20:48 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:20:48 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:21:12 /data/www/service/ServiceBase/Vendor/Db/Connection.php updated and reload workers
+2020-05-06 16:21:12 Server notice:Server reloading
+2020-05-06 16:21:12 Server notice:
+Worker Restart Success
+2020-05-06 16:21:12 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:21:12 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:21:12 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:21:12 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:21:12 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:21:12 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:21:12 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:21:12 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:21:12 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:21:12 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:21:17 /data/www/service/ServiceBase/Vendor/Db/Connection.php updated and reload workers
+2020-05-06 16:21:17 Server notice:Server reloading
+2020-05-06 16:21:17 Server notice:
+Worker Restart Success
+2020-05-06 16:21:17 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:21:17 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:21:17 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:21:17 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:21:17 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:21:17 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:21:17 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:21:17 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:21:17 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:21:17 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:21:59 /data/www/service/ServiceBase/Config/MNLogger.php updated and reload workers
+2020-05-06 16:21:59 Server notice:Server reloading
+2020-05-06 16:21:59 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:21:59 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:21:59 Server notice:
+Worker Restart Success
+2020-05-06 16:21:59 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:21:59 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:21:59 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:21:59 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:21:59 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:21:59 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:21:59 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:21:59 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:27:51 /data/www/service/ServiceBase/Config/Redis.php updated and reload workers
+2020-05-06 16:27:51 Server notice:Server reloading
+2020-05-06 16:27:51 Server notice:
+Worker Restart Success
+2020-05-06 16:27:51 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:27:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:27:51 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:27:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:27:51 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:27:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:27:51 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:27:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:27:51 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:27:51 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:27:58 Server notice:Server is shutting down
+2020-05-06 16:27:58 Server notice:Server stoped
+2020-05-06 16:27:58 Server notice:Server is starting ...
+2020-05-06 16:27:58 Server notice:Server start success ...
+2020-05-06 16:27:58 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:27:58 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:27:58 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:27:58 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:27:58 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:27:58 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:27:58 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:27:58 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:27:58 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:27:58 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:31:17 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 16:31:17 /data/www/service/ServiceBase/Config/MNLogger.php updated and reload workers
+2020-05-06 16:31:17 /data/www/service/ServiceBase/Config/Redis.php updated and reload workers
+2020-05-06 16:31:17 Server notice:Server reloading
+2020-05-06 16:31:17 Server notice:Server reloading
+2020-05-06 16:31:17 Server notice:Server reloading
+2020-05-06 16:31:17 Server notice:
+Worker Restart Success
+2020-05-06 16:31:17 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:31:17 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:31:17 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:31:17 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:31:17 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:31:17 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:31:17 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:31:17 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:31:17 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:31:17 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:43:13 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 16:43:13 /data/www/service/ServiceBase/Config/MNLogger.php updated and reload workers
+2020-05-06 16:43:13 /data/www/service/ServiceBase/Config/Redis.php updated and reload workers
+2020-05-06 16:43:13 Server notice:Server reloading
+2020-05-06 16:43:13 Server notice:
+Worker Restart Success
+2020-05-06 16:43:13 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:43:13 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:43:13 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:43:13 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:43:13 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:43:13 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:43:13 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:43:13 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:43:13 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:43:13 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:58:44 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 16:58:44 /data/www/service/ServiceBase/Config/MNLogger.php updated and reload workers
+2020-05-06 16:58:44 /data/www/service/ServiceBase/Config/Redis.php updated and reload workers
+2020-05-06 16:58:44 Server notice:Server reloading
+2020-05-06 16:58:44 Server notice:
+Worker Restart Success
+2020-05-06 16:58:44 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:58:44 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:58:44 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:58:44 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:58:44 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:58:44 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:58:44 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:58:44 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 16:58:44 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 16:58:44 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:10:25 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 17:10:25 /data/www/service/ServiceBase/Config/MNLogger.php updated and reload workers
+2020-05-06 17:10:25 /data/www/service/ServiceBase/Config/Redis.php updated and reload workers
+2020-05-06 17:10:25 Server notice:Server reloading
+2020-05-06 17:10:25 Server notice:
+Worker Restart Success
+2020-05-06 17:10:25 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:10:25 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:10:25 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:10:25 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:10:25 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:10:25 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:10:25 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:10:25 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:10:25 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:10:25 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:13:34 /data/www/service/ServiceBase/Module/TestModule.php updated and reload workers
+2020-05-06 17:13:34 Server notice:Server reloading
+2020-05-06 17:13:35 Server notice:
+Worker Restart Success
+2020-05-06 17:13:35 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:13:35 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:13:35 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:13:35 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:13:35 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:13:35 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:13:35 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:13:35 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:13:35 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:13:35 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:17:14 /data/www/service/ServiceBase/Config/Redis.php updated and reload workers
+2020-05-06 17:17:14 Server notice:Server reloading
+2020-05-06 17:17:14 Server notice:
+Worker Restart Success
+2020-05-06 17:17:14 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:17:14 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:17:14 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:17:14 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:17:14 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:17:14 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:17:14 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:17:14 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:17:14 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:17:14 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:17:35 /data/www/service/ServiceBase/Config/Db.php updated and reload workers
+2020-05-06 17:17:35 /data/www/service/ServiceBase/Config/MNLogger.php updated and reload workers
+2020-05-06 17:17:35 /data/www/service/ServiceBase/Config/Redis.php updated and reload workers
+2020-05-06 17:17:35 Server notice:Server reloading
+2020-05-06 17:17:35 Server notice:Server reloading
+2020-05-06 17:17:35 Server notice:
+Worker Restart Success
+2020-05-06 17:17:35 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:17:35 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:17:35 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:17:35 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:17:35 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:17:35 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:17:35 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:17:35 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:17:35 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:17:35 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:22:20 Server notice:Server is shutting down
+2020-05-06 17:22:20 Server notice:Server stoped
+2020-05-06 17:22:20 Server notice:Server is starting ...
+2020-05-06 17:22:20 Server notice:Server start success ...
+2020-05-06 17:22:20 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:22:20 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:22:20 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:22:20 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:22:20 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:22:20 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:22:20 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:22:20 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:22:20 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:22:20 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:24:30 Server notice:The terminal is closed ,Server reloading
+2020-05-06 17:24:30 Server notice:
+Worker Restart Success
+2020-05-06 17:24:30 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:24:30 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:24:30 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:24:30 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:24:30 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:24:30 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:24:30 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:24:30 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits
+2020-05-06 17:24:30 [ThriftWorker] provider_dir /home/demo/service_demo/Provider not exsits
+2020-05-06 17:24:30 [ThriftWorker] handler_dir/home/demo/service_demo/Handler not exsits

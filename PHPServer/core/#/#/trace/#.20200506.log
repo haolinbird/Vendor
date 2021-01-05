@@ -1,0 +1,2 @@
+OWLTRACE0002#2020-05-06 16:15:52.000127.0.1.1CSuuid-5eb27238764945eb27238764955eb27238786f5MYSQLMYSQL.Model\TestModel::getInfoByNamemysql:dbname=unionoil_user;host=10.9.93.199;port=33061588752952493SQLSELECT  `id`,`test_name`,`create_time`  FROM `test`  WHERE  (`test_name` = 'hello')    SQL_ID/data/www/service/ServiceBase/Module/TestModule.php:39
+OWLTRACE0002#2020-05-06 16:15:52.000127.0.1.1CRuuid-5eb27238764945eb27238764955eb27238786f51588752952494RESPONSE_TYPESUCCESSDATA_SIZE19080DATA""
