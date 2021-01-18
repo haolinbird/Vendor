@@ -677,7 +677,7 @@ class JMTextRpcClient
         }
         $config = self::config();
         
-        $logdir = isset($config['trace_log_path']) ? $config['trace_log_path'] : '/home/logs/monitor';
+        $logdir = isset($config['trace_log_path']) ? $config['trace_log_path'] : '/tmp/logs/monitor';
         
         $trace_config = array(
            'on' => true,
